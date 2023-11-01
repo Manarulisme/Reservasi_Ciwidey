@@ -1,31 +1,36 @@
-<nav class="py-2 bg-body-tertiary border-bottom">
-    <div class="container d-flex flex-wrap">
-      <ul class="nav me-auto">
-        <li class="nav-item"><a href="#" class="nav-link link-body-emphasis px-2 active" aria-current="page">Home</a></li>
-        <li class="nav-item"><a href="#" class="nav-link link-body-emphasis px-2">Features</a></li>
-        <li class="nav-item"><a href="#" class="nav-link link-body-emphasis px-2">Pricing</a></li>
-        <li class="nav-item"><a href="#" class="nav-link link-body-emphasis px-2">FAQs</a></li>
-        <li class="nav-item"><a href="#" class="nav-link link-body-emphasis px-2">About</a></li>
-      </ul>
-      <ul class="nav">
-        <li class="nav-item"><a href="#" class="nav-link link-body-emphasis px-2">Login</a></li>
-        <li class="nav-item"><a href="#" class="nav-link link-body-emphasis px-2">Sign up</a></li>
-      </ul>
+<nav class="navbar navbar-expand-lg" style="background-color: #6F949D;">
+    <div class="container-fluid">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+            <ul class="nav nav-pills">
+                <li class="nav-item"><a href="#" class="nav-link text-dark" aria-current="page">62857-2428-0700</a></li>
+                <li class="nav-item"><a href="#" class="nav-link text-dark">nadimaswisataciwidey@gmail.com</a></li>
+                <li class="nav-item"><a href="#" class="nav-link text-dark">Rancabali, Ciwidey</a></li>
+              </ul>
+      </div>
     </div>
   </nav>
-<div class="container">
-    <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
-      <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
-        <img src="Assets/Images/logo_wisata.png" alt="" width="40" height="40">
-        <span class="fs-4">RESERVASI TIKET WISATA CIWIDEY</span>
-      </a>
 
-      <ul class="nav nav-pills">
-        <li class="nav-item"><a href="#" class="nav-link active" aria-current="page">Home</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Features</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">Pricing</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">FAQs</a></li>
-        <li class="nav-item"><a href="#" class="nav-link">About</a></li>
-      </ul>
-    </header>
-  </div>
+  <nav class="navbar navbar-expand-lg bg-light ">
+    <div class="container-fluid">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+
+        <a class="navbar-brand" href="#">
+           <img src="Assets/Images/logo_wisata.png" alt="" width="50" height="50">
+        RESERVASI TIKET WISATA CIWIDEY</a>
+            <ul class="nav nav-pills">
+                <li class="nav-item"><a href="#" class="nav-link text-dark" aria-current="page">Home</a></li>
+                <li class="nav-item"><a href="#" class="nav-link text-dark">Profil</a></li>
+                <li class="nav-item"><a href="#" class="nav-link text-dark">Layanan</a></li>
+                <li class="nav-item"><a href="#" class="nav-link text-dark">Artikel</a></li>
+                <li class="nav-item"><a href="#" class="nav-link text-dark">Kontak</a></li>
+              </ul>
+      </div>
+    </div>
+  </nav>
+
