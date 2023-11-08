@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\UserController;
+use App\Livewire\Counter;
 
 /*
 |--------------------------------------------------------------------------
@@ -20,3 +21,4 @@ use App\Http\Controllers\UserController;
 
 Route::get('/', [UserController::class, 'index']);
 
+Route::get('/counter', Counter::class);
